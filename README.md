@@ -33,13 +33,7 @@ values.
 
 You can install the current version of streamsampler like so:
 
-``` r
-remotes::install_git(url = "https://code.usgs.gov/water/streamsampler.git")
-library(streamsampler)
-```
-
-**Note:** You may need to reset your code.usgs.gov password. You also
-may need to restart your R session after installing from Git.
+**Note:** Installation of `streamsampler` is not yet available.
 
 ## Example
 
