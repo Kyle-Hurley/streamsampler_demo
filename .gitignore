@@ -2,3 +2,9 @@
 !.gitignore
 !README.md
 .Rproj.user
+!man/figures/README-subsample_peaks-1.png
+!man/figures/README-subsample_peaks-2.png
+!man/figures/README-subsample_peaks-3.png
+!man/figures/README-subsample_sc-1.png
+!man/figures/README-subsample_sc-2.png
+!man/figures/README-boxplots-1.png
